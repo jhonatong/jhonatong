@@ -11,7 +11,7 @@ Halo! Saya adalah mahasiswa **Teknik Informatika** di **Universitas Prima Indone
 - 💻 Berpengalaman dalam merancang dan mengembangkan aplikasi berbasis web yang efisien.
 - 🗄️ Terbiasa dengan manajemen arsitektur *database* relasional, pengelolaan sistem, dan optimalisasi *backend*.
 - 🚀 Saat ini sedang terus mengeksplorasi integrasi antara **Web Development** dan **Machine Learning**.
-- 📫 Hubungi saya melalui: [jhonatan.andrifay@email-anda.com](mailto:jhonatan.andrifay@email-anda.com) *(Ubah dengan email asli Anda ya!)*
+- 📫 Hubungi saya melalui: [jhonatanhutabarat17@gmail.com](mailto:jhonatanhutabarat17@gmail.com) 
 
 ---
 
