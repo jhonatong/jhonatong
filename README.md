@@ -28,27 +28,13 @@ Halo! Saya adalah mahasiswa **Teknik Informatika** di **Universitas Prima Indone
 ### 📊 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatong&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Statistik GitHub Jhonatan" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatong&theme=radical&hide_border=true&background=0D1117" alt="Streak GitHub Jhonatan" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jhonatong&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Statistik GitHub Jhonatan" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatong&theme=radical&theme=radical&hide_border=true&background=0D1117" alt="Streak GitHub Jhonatan" width="48%" />
 </div>
-
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatong&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" width="60%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jhonatong&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" width="55%" />
 </div>
 
 ---
 *⭐ "Menghubungkan logika manusia dengan kecerdasan mesin."*
-<!--
-**jhonatong/jhonatong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
