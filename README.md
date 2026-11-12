@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Halo! Saya adalah mahasiswa **Teknik Informatika** di **Universitas Prima Indonesia**. Saya memiliki ketertarikan yang mendalam di bidang eksplorasi teknologi, khususnya dalam pengembangan sistem web dan dunia Kecerdasan Buatan (AI/ML).
+Halo! Saya **Jhonatan Andrifay Hutabarat** — seorang **IT Support & IT Operations Specialist** sekaligus **Web Developer** dengan latar belakang pendidikan **Teknik Informatika** dari **Universitas Prima Indonesia**. Saya terbiasa menangani pemeliharaan infrastruktur jaringan, manajemen aset & perangkat operasional, serta membangun solusi sistem berbasis web dan desktop.
 
 - 💻 Berpengalaman dalam merancang dan mengembangkan aplikasi berbasis web yang efisien.
 - 🗄️ Terbiasa dengan manajemen arsitektur *database* relasional, pengelolaan sistem, dan optimalisasi *backend*.
