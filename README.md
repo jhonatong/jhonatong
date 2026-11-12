@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Halo! Saya **Jhonatan Andrifay Hutabarat** — seorang **IT Support & IT Operations Specialist** sekaligus **Web Developer** dengan latar belakang pendidikan **Teknik Informatika** dari **Universitas Prima Indonesia**. Saya terbiasa menangani pemeliharaan infrastruktur jaringan, manajemen aset & perangkat operasional, serta membangun solusi sistem berbasis web dan desktop.
+Hi! I'm **Jhonatan Andrifay Hutabarat**, a **Computer Science (Informatics Engineering)** graduate from **Universitas Prima Indonesia**. I specialize in **IT Support**, **IT Operations**, and **Web Development**, focusing on network infrastructure maintenance, system administration, and building practical full-stack web applications.
 
 - 💻 Berpengalaman dalam merancang dan mengembangkan aplikasi berbasis web yang efisien.
 - 🗄️ Terbiasa dengan manajemen arsitektur *database* relasional, pengelolaan sistem, dan optimalisasi *backend*.
