@@ -1,9 +1,10 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=680&lines=Hi,+I'm+Jhonatan+Andrifay+Hutabarat!;IT+Support+%7C+IT+Operations+%7C+Web+Developer" alt="Typing SVG" />
-  
+
   <p>
     <a href="https://jhonatong.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-jhonatong.github.io-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:jhonatanhutabarat17@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=0284C7" alt="Email" />
@@ -15,22 +16,29 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Jhonatan Andrifay Hutabarat**, a **Computer Science (Informatics Engineering)** graduate from **Universitas Prima Indonesia**. I bridge hands-on **IT Support & Operations** with practical **Full-Stack Web Development**—ensuring smooth day-to-day corporate IT infrastructure while building internal tools and scalable web systems that solve real operational bottlenecks.
+Hi! I'm **Jhonatan Andrifay Hutabarat**, an Informatics Engineering graduate from **Universitas Prima Indonesia**.
 
-- 🔧 **IT Support & Operations:** Experienced in hardware diagnostics & repair, LAN/network infrastructure setup, server & panel maintenance, corporate IT asset inventory, and enterprise device provisioning.
-- 🌐 **Full-Stack Web Development:** Skilled in building internal enterprise systems (IT helpdesk, asset management) and automated web platforms using modern frontend and backend architectures.
-- 🗄️ **Systems & Databases:** Proficient in relational database design, API integration, containerized deployments, and backend performance optimization.
-- 📍 Based in **Medan, Indonesia** | 📫 Reach me at: [jhonatanhutabarat17@gmail.com](mailto:jhonatanhutabarat17@gmail.com)
+I'm an IT enthusiast with hands-on experience in **IT Support, IT Operations, and Web Development**. I enjoy solving technical problems, maintaining IT infrastructure, and developing web-based applications that help improve business and operational workflows.
+
+My experience combines technical support in a corporate environment with practical software development, particularly in building web applications and database-driven systems.
+
+- 🔧 **IT Support & Operations:** Hardware troubleshooting, Windows installation, software configuration, device provisioning, and technical support.
+- 🌐 **Web Development:** Building responsive websites, internal web applications, and database-driven systems.
+- 🗄️ **Database & Backend:** Working with REST APIs, backend development, SQL databases, and application integration.
+- 💡 **Continuous Learning:** Exploring modern web technologies and improving my technical skills through real-world projects.
+- 📍 **Based in Medan, Indonesia**
+- 📫 **Contact:** jhonatanhutabarat17@gmail.com
 
 ---
 
-### 🚀 Core Focus & Featured Systems
+### 🚀 Experience & Projects
 
-| Domain | Highlights & Implementations |
+| Area | Experience & Focus |
 | :--- | :--- |
-| **IT Operations & Infra** | Hardware troubleshooting, TIA/EIA-568B network cabling, server/attendance system maintenance, and multi-division technical support. |
-| **Enterprise Internal Apps** | Built internal **IT Helpdesk, Asset Management & B2B Request** portals (`Go` + `Next.js` + `TypeScript`) and hospital training center platforms. |
-| **E-Commerce & Automation** | Developed automated digital product top-up platforms with supplier API integrations, payment gateways, and ledger management. |
+| **IT Support & Operations** | Hardware and software troubleshooting, workstation setup, operating system installation, and technical support. |
+| **Web Development** | Developing websites, internal applications, administrative dashboards, and web-based management systems. |
+| **Hospital Information Systems** | Experience contributing to hospital-related web applications, training center platforms, and operational systems. |
+| **Business Applications** | Developing solutions such as clinic management, POS, reservation systems, and other business-oriented applications. |
 
 ---
 
@@ -38,19 +46,31 @@ Hi! I'm **Jhonatan Andrifay Hutabarat**, a **Computer Science (Informatics Engin
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,nextjs,react,tailwind,php,laravel,nodejs,py,postgres,mysql,docker,git,github,vscode" alt="Jhonatan's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,mongodb,git,github,vscode,python" alt="Jhonatan's Tech Stack" />
   </a>
 </div>
 
 <br>
 
+### 📚 Currently Exploring
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind" alt="Currently Learning" />
+  <p><i>Always learning, building, and improving.</i></p>
+</div>
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=jhonatong&show_icons=true&title_color=0284C7&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&hide_border=true" alt="Jhonatan's GitHub Stats" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatong&ring=0284C7&fire=38BDF8&currStreakLabel=0284C7&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&background=0D1117&hide_border=true" alt="Jhonatan's GitHub Streak" width="48%" />
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jhonatong&layout=compact&title_color=0284C7&text_color=E2E8F0&bg_color=0D1117&hide_border=true" alt="Top Languages" width="55%" />
 </div>
@@ -58,5 +78,5 @@ Hi! I'm **Jhonatan Andrifay Hutabarat**, a **Computer Science (Informatics Engin
 ---
 
 <div align="center">
-  <i>⭐ "Bridging reliable IT operations with practical software engineering."</i>
+  <i>⭐ "Learning through experience, solving problems through technology, and building solutions that matter."</i>
 </div>
