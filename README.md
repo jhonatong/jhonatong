@@ -1,36 +1,56 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0369A1,100:0284C7&height=185&section=header&text=Jhonatan%20Andrifay%20Hutabarat&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=IT%20Support%20%7C%20IT%20Operations%20%7C%20Web%20Developer&descSize=16&descAlignY=58&descColor=38BDF8" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Jhonatan+Andrifay+Hutabarat!;IT+Support+%7C+IT+Operations+%7C+Web+Developer" alt="Typing SVG" />
 
-  <!-- Typing Subtitle -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Nge-fix+Wi-Fi+Kantor+%26+Nulis+Kode+Sampe+Pagi;Sudah+Coba+Restart+Belum%3F+%7C+IT+Support+%26+Dev;Dari+Crimping+Kabel+LAN+Sampe+Ngurus+REST+API" alt="Typing SVG" />
-
-  <!-- Badges -->
   <p>
     <a href="https://jhonatong.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-jhonatong.github.io-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:jhonatanhutabarat17@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Ajak_Ngopi_%2F_Kerja-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-jhonatanhutabarat17%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Markas-Medan%2C_Indonesia-0D1117?style=for-the-badge&logo=google-maps&logoColor=38BDF8" alt="Location" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 Tentang Saya (Versi Waras & Jujur)
+### 👨‍💻 About Me
 
-Halo! Saya **Jhonatan Andrifay Hutabarat**, lulusan Teknik Informatika **Universitas Prima Indonesia** (IPK 3.76/4.00) yang sehari-hari hidup di antara kabel LAN, *server*, *database*, dan layar VS Code di **Medan**.
+Hi! I'm **Jhonatan Andrifay Hutabarat**, a Computer Science (Informatics Engineering) graduate from **Universitas Prima Indonesia**. I specialize in **IT Support, IT Operations, and Web Development**, focusing on network infrastructure maintenance, system administration, and practical full-stack web applications[cite: 1].
 
-Pagi sampai sore bisa jadi **IT Support & IT Operations**—bantu beresin *printer* ngambek, *crimping* kabel, pasang OS, sampe *setup* perangkat lapangan. Malamnya ganti *mode* jadi **Web Developer**—bikin sistem internal kantor, *dashboard*, API, dan aplikasi web biar kerjaan manusia makin enteng (dan nggak rebutan file Excel lagi).
+- 🔧 **IT Support & Operations:** Experienced in IT infrastructure maintenance, hardware/network troubleshooting, and corporate asset management[cite: 1].
+- 💻 **Web & Application Development:** Skilled in designing and developing efficient full-stack web and desktop applications[cite: 1].
+- 🗄️ **Database & Backend:** Proficient in relational database architecture, containerized environments, and backend system optimization[cite: 1].
+- 📫 **Contact:** Reach me at [jhonatanhutabarat17@gmail.com](mailto:jhonatanhutabarat17@gmail.com)[cite: 1]
 
-```yaml
-nama          : "Jhonatan Andrifay Hutabarat"
-peran_ganda   : "IT Support | IT Operations | Web Developer"
-domisili      : "Medan, Sumatera Utara (masih bertahan dari macet & panas)"
-keahlian_unik :
-  - "Menghidupkan kembali perangkat yang kata orang 'udah mati total'"
-  - "Mengubah keluhan 'ini kok error ya?' menjadi fitur atau patch"
-  - "Bertahan hidup dengan kopi, tethering, dan Stack Overflow"
-status_bug    : "Bukan bug, itu fitur yang belum didokumentasikan"
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,php,laravel,nextjs,csharp,go,py,postgres,mysql,docker,git,github" alt="Jhonatan's Tech Stack" />
+  </a>
+  <br><br>
+  <sub><i>Hardware &amp; Network Ops • REST APIs • SQL &amp; Containerized Systems</i></sub>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jhonatong&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=1E293B&border_radius=10" alt="Jhonatan's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatong&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&background=0D1117&border=1E293B&border_radius=10" alt="Jhonatan's GitHub Streak" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jhonatong&layout=compact&title_color=38BDF8&text_color=E2E8F0&bg_color=0D1117&border_color=1E293B&border_radius=10" alt="Top Languages" width="52%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ <i>Building reliable systems and solving real problems one commit at a time.</i></sub>
+</div>
